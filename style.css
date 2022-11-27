@@ -1,0 +1,28 @@
+.red {
+    color: rgb(65, 117, 160);
+    background-color:rgb(141, 75, 127);
+    text-align: center;
+}
+
+.border-blue{
+    border: 10px solid blueviolet; 
+
+}
+
+.image-size{
+    width: 200px;
+    height: 200px;
+}
+
+.margin-space{
+    margin-top:40px;
+    margin-left: 100px;
+    margin-bottom: 40px;
+}
+
+.padding-space{
+    padding-top: 40px;
+    padding-left: 50px;
+    padding-bottom: 40px;
+    padding-right: 50px;
+}
